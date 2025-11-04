@@ -43,3 +43,5 @@ This repository serves as the official record of the HAVK Data Visualization Spr
 
 The event strengthened HAVK’s focus on interdisciplinary AI applications and gave students practical experience in data analysis, visualization, and communication.  
 It also demonstrated my ability to design educational experiences that combine technical instruction, applied reasoning, and clear presentation standards.
+
+## Winners Will be Announced Soon
